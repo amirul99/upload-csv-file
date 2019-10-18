@@ -1,0 +1,2 @@
+Chr,Start,End,GeneID,GeneSym,Disorders(>=25%-overlap),Length,CNV,info,freq.,SampleID
+ChrStartEndGeneIDGeneSymDisorders(>=25%-overlap)LengthCNVinfofreq.
